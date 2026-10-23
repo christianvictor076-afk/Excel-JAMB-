@@ -1,0 +1,10 @@
+
+{
+  "appId": "ai.appdeploy.exceljamb",
+  "appName": "Excel JAMB",
+  "webDir": "www",
+  "server": {
+    "url": "https://excel-0cc17u.v2.appdeploy.ai/",
+    "cleartext": false
+  }
+}
